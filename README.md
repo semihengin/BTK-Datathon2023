@@ -45,17 +45,6 @@ Proje kapsamında kullanılan veri seti, aşağıdaki özellikleri içermektedir
 - **`test_x.csv`** - Test veri seti.
 - **`README.md`** - Proje hakkında bilgiler içeren bu dosya.
 
-## 🎯 Sonuçlar
-
-Yapılan analiz ve modelleme sonucunda, elde edilen en iyi model ile **müşteri sınıflandırma başarı oranı maksimize edilmiştir**. Sonuçlar, proje raporunda detaylı olarak sunulmuştur.
-
-## 📬 İletişim
-
-Herhangi bir soru veya geri bildirim için benimle iletişime geçebilirsiniz:
-
-- **E-posta**: [semihengin@example.com](mailto:semihengin@example.com)
-- **LinkedIn**: [linkedin.com/in/semihengin](https://www.linkedin.com/in/semihengin)
-
 ---
 
 **Not:** Bu proje **BTK Datathon 2023** kapsamında geliştirilmiştir. Yarışma hakkında detaylı bilgi almak için [BTK Akademi](https://www.btkakademi.gov.tr/portal/public/Datathon2023) sayfasını ziyaret edebilirsiniz.

@@ -36,8 +36,7 @@ Proje kapsamında kullanılan veri seti, aşağıdaki özellikleri içermektedir
 1. **Keşfisel Veri Analizi (EDA)**: Verinin genel yapısı incelenmiş, eksik veriler analiz edilmiştir.
 2. **Veri Ön İşleme**: Eksik veriler doldurulmuş, kategorik değişkenler dönüştürülmüştür.
 3. **Modelleme**: Çeşitli makine öğrenmesi algoritmaları uygulanarak en iyi performans gösteren model seçilmiştir.
-4. **Model Değerlendirme**: Model performansı doğruluk (accuracy), f1-score gibi metriklerle değerlendirilmiştir.
-
+   
 ## 📂 Proje Dosyaları
 
 - **`main.ipynb`** - Veri analizi, ön işleme ve modelleme adımlarını içeren Jupyter Notebook dosyası.

@@ -6,7 +6,7 @@ Bu proje, BTK Akademi, Google ve Girişimcilik Vakfı iş birliğiyle düzenlene
 
 Bu projede, bir e-ticaret platformunun müşterilerini demografik ve davranışsal verilerine göre sınıflandırmak hedeflenmiştir. Sınıflandırma modeli ile firmalar, belirli müşteri gruplarına özel pazarlama stratejileri geliştirebilir, kampanya yönetimlerini optimize edebilir.
 
-## 📊 Veri Seti
+## 📊 Veri Seti 
 
 Proje kapsamında kullanılan veri seti, aşağıdaki özellikleri içermektedir:
 
